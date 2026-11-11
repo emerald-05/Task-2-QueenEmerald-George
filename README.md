@@ -8,5 +8,5 @@ This project focuses on analyzing a dataset to understand patterns, trends and d
 - identify trends and outliers.
 - Summarize key observations.
 
-Tools
+## Tools
 Microsoft Excel.
